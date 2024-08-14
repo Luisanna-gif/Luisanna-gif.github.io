@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+h1{
+    color: rgb(27, 172, 135);
+    text-align: center;
+}
+#HomeLista {
+    background-color: rgb(27, 172, 135);
+    text-align: center;
+    border-radius: 5px;
+    line-height: 2;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    width: 50%;margin: auto;
+}
+#HomeLista a{
+    color: white;
+    text-decoration: none;
+}
+img{
+    display:block;
+    width: 50%;
+    margin:auto;
+}
+.Contact{
+    background-color: rgb(27, 172, 135);
+    text-align:center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    width: 100%;
+    margin-top: 20%;
+}
+
+.Contact th{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    border-bottom: 4px white solid;
+}
+
+.AptitudesLista li{
+    background-color: rgb(27, 172, 135);
+    line-height: 40px;
+    height: 10p;
+    width: 20%;
+    border: 15px white solid;
+    border-radius: 30px;
+    text-align: center;
+}
